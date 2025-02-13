@@ -1,4 +1,4 @@
-#Marketing Spend Dashboard
+Marketing Spend Dashboard
 
 Overview
 
@@ -36,13 +36,13 @@ Page Views per Session
 
 Visualizations
 
-Line Charts for Trends
+📈 Line Charts for Trends
 
-Bar Graphs for Category-wise Breakdown
+📊 Bar Graphs for Category-wise Breakdown
 
-Pie Charts for Device Distribution
+🥧 Pie Charts for Device Distribution
 
-Tables for Detailed Insights
+📋 Tables for Detailed Insights
 
 Data Fields
 
@@ -128,7 +128,7 @@ Dataset in CSV or database format compatible with Power BI
 
 Contribution
 
-Feel free to contribute by improving the dashboard, adding new visualizations, or optimizing queries.
+Contributions are welcome! Feel free to submit pull requests to improve the dashboard, add new visualizations, or optimize queries.
 
 License
 
