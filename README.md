@@ -10,7 +10,7 @@ Data Source
 
 Google Ads marketing spend data
 
-# Key Metrics
+## Key Metrics ##
 
 Visits (New and Returning)
 
@@ -34,7 +34,7 @@ Device-wise Visitor Analysis
 
 Page Views per Session
 
-# Visualizations
+## Visualizations ##
 
 📈 Line Charts for Trends
 
@@ -44,7 +44,7 @@ Page Views per Session
 
 📋 Tables for Detailed Insights
 
-# Data Fields
+## Data Fields ##
 
 Field Name
 
@@ -120,7 +120,7 @@ Open the Power BI file (.pbix) in Microsoft Power BI.
 
 Load the dataset and refresh visuals to view insights.
 
-# requirements
+## requirements ##
 
 Microsoft Power BI Desktop
 
