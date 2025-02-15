@@ -4,13 +4,13 @@
 
 This repository contains a Power BI dashboard for analyzing marketing spend data. The dashboard provides insights into key performance metrics such as visitor traffic, conversion rates, search behavior, and session engagement across different marketing campaigns.
 
-#Features#
+## Features ##
 
 Data Source
 
 Google Ads marketing spend data
 
-Key Metrics
+# Key Metrics
 
 Visits (New and Returning)
 
@@ -34,7 +34,7 @@ Device-wise Visitor Analysis
 
 Page Views per Session
 
-Visualizations
+# Visualizations
 
 📈 Line Charts for Trends
 
@@ -44,7 +44,7 @@ Visualizations
 
 📋 Tables for Detailed Insights
 
-Data Fields
+# Data Fields
 
 Field Name
 
@@ -120,13 +120,13 @@ Open the Power BI file (.pbix) in Microsoft Power BI.
 
 Load the dataset and refresh visuals to view insights.
 
-Requirements
+# requirements
 
 Microsoft Power BI Desktop
 
 Dataset in CSV or database format compatible with Power BI
 
-Contribution
+
 
 Contributions are welcome! Feel free to submit pull requests to improve the dashboard, add new visualizations, or optimize queries.
 
